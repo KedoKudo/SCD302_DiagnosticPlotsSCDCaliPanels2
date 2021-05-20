@@ -6,7 +6,6 @@
 mantid/*
 build/*
 opt/*
-data/*
 
 ### C++ ###
 # Prerequisites
