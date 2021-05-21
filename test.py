@@ -12,6 +12,8 @@ config = {
     "prefix": "idealTOPAZ",
     "type": "png",
     "saveto": "./tmp",
+    "mode": "modern",  # slow, but prettier
+#     "mode": "legacy",    # fast, and concise
     }
 pws = mtd['pws']
 
